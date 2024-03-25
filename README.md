@@ -4,7 +4,7 @@ Inspired by the many creative 3D developer portfolios, I created one that's 2D i
 This is a template you can use to build your own. It works on both desktop
 and mobile.
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![image](https://github.com/Sodium-Man/Pixel-Github-Portfolio/assets/110275891/683e2d2f-4131-40e3-9a3c-bee2867d0c2f)
 
 Live Demo: https://jslegenddev.github.io/portfolio/
 
