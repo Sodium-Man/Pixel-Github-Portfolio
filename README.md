@@ -1,12 +1,12 @@
 # Developer portfolio that's a 2D game
 
 Inspired by the many creative 3D developer portfolios, I created one that's 2D instead.
-This is meant as a template that you can use to build your own. It works on both desktop
+This is a template you can use to build your own. It works on both desktop
 and mobile.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://jslegenddev.github.io/portfolio/
+Live Demo: https://jslegenddev.github.io/portfolio/
 
 # How to run
 
