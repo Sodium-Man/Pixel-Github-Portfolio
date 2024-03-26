@@ -11,7 +11,7 @@ export const dialogueData = {
   As a connoisseur of web series and TV shows, I possess an unparalleled passion for captivating storytelling and a discerning eye for selecting only the most exquisite GOD Tier productions, making me your ultimate guide to the world of premium entertainment.`,
 
   tv: `That's my TV. I've been watching Documentaries alot recently like :
-   <a href="https://tv.apple.com/us/movie/shoah-second-era/umc.cmc.3vzc5d6byuiux0w4xfrnm66p9?playableId=tvs.sbd.9001%3A1550241597" target="_blank">Shoah</a>, <a href="https://www.netflix.com/in/title/80091741?source=35" target="_blank">13th</a>,
+  <a href="https://tv.apple.com/us/movie/shoah-second-era/umc.cmc.3vzc5d6byuiux0w4xfrnm66p9?playableId=tvs.sbd.9001%3A1550241597" target="_blank">Shoah</a>, <a href="https://www.netflix.com/in/title/80091741?source=35" target="_blank">13th</a>,
   <a href="https://www.amazon.com/Lake-Fire-Noam-Chomsky/dp/B07W5ZZYXQ" target="_blank">Lake of Fire</a> and currently the reason for my melancholy is <a href="https://www.netflix.com/in/title/70300800" target="_blank">Bojack Horseman</a>!`,
 
   bed: `This is where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
