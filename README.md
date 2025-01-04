@@ -6,7 +6,7 @@ and mobile.
 
 ![image](https://github.com/Sodium-Man/Pixel-Github-Portfolio/assets/110275891/683e2d2f-4131-40e3-9a3c-bee2867d0c2f)
 
-Live Demo: (https://naman-pixel-github-portfolio.vercel.app/)
+Live Demo: (https://naman-pixel-portfolio.vercel.app)
 
 # How to run
 
